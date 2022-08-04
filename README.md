@@ -14,3 +14,5 @@
     <a href="https://github.com/GuiJK/my-portfolio.git">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/GuiJK/my-portfolio.git">Request Feature</a>
+
+<h4> EU <h4/>
