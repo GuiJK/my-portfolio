@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import junqueflix from "../../Assets/Projects/junqueflix.png";
 import pokedex from "../../Assets/Projects/pokedex.png";
+import divino from "../../Assets/Projects/Divino-Tacho.png";
 
 function Projects() {
   return (
@@ -35,6 +36,16 @@ function Projects() {
               title="Pokedex"
               description="A pokedex of the Pokemon cartoon that I made using CSS and HTML."
               ghLink="https://github.com/GuiJK/css.git"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={divino}
+              isBlog={false}
+              title="Divino-Tacho"
+              description="Designing a Website for a Product"
+              ghLink="https://github.com/GuiJK/divino-tacho.git"
             />
           </Col>
         </Row>
