@@ -36,6 +36,7 @@ function Projects() {
               title="Pokedex"
               description="A pokedex of the Pokemon cartoon that I made using CSS and HTML."
               ghLink="https://github.com/GuiJK/css.git"
+              demoLink="https://guijk.github.io/css/"
             />
           </Col>
 
